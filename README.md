@@ -1,1 +1,1 @@
-"Practice with Erlang" 
+Practicing Erlang mainly during a few long bus rides.
